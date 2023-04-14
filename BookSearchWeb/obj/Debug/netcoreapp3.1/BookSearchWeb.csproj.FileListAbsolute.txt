@@ -1,0 +1,86 @@
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.exe
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.deps.json
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.runtimeconfig.json
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.runtimeconfig.dev.json
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.dll
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.pdb
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.Views.dll
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.Views.pdb
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.csproj.AssemblyReference.cache
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.AssemblyInfoInputs.cache
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.AssemblyInfo.cs
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.csproj.CoreCompileInputs.cache
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.RazorAssemblyInfo.cache
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.RazorAssemblyInfo.cs
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\staticwebassets\BookSearchWeb.StaticWebAssets.Manifest.cache
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\staticwebassets\BookSearchWeb.StaticWebAssets.xml
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookSearchWeb.styles.css
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.TagHelpers.input.cache
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.TagHelpers.output.cache
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.RazorCoreGenerate.cache
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.Views.pdb
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.dll
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.pdb
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.genruntimeconfig.cache
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.csproj.CopyComplete
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\J2N.dll
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Lucene.Net.dll
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Lucene.Net.Analysis.Common.dll
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Lucene.Net.Queries.dll
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Lucene.Net.QueryParser.dll
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Lucene.Net.Sandbox.dll
+C:\Users\Yarou\Source\Repos\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.exe
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.deps.json
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.runtimeconfig.json
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.runtimeconfig.dev.json
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.dll
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.pdb
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.Views.dll
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\BookSearchWeb.Views.pdb
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\J2N.dll
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Lucene.Net.dll
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Lucene.Net.Analysis.Common.dll
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Lucene.Net.Queries.dll
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Lucene.Net.QueryParser.dll
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Lucene.Net.Sandbox.dll
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.csproj.AssemblyReference.cache
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.AssemblyInfoInputs.cache
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.AssemblyInfo.cs
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.csproj.CoreCompileInputs.cache
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.RazorAssemblyInfo.cache
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.RazorAssemblyInfo.cs
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\staticwebassets\BookSearchWeb.StaticWebAssets.Manifest.cache
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\staticwebassets\BookSearchWeb.StaticWebAssets.xml
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookSearchWeb.styles.css
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.TagHelpers.input.cache
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.TagHelpers.output.cache
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.RazorCoreGenerate.cache
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.RazorTargetAssemblyInfo.cache
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.RazorTargetAssemblyInfo.cs
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.Views.pdb
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.csproj.CopyComplete
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.dll
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.pdb
+D:\3d max\projects\BookSearchWeb\BookSearchWeb\obj\Debug\netcoreapp3.1\BookSearchWeb.genruntimeconfig.cache

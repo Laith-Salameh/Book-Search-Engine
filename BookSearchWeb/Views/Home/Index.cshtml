@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Book Search";
+}
+
+<section>
+    <div class="bg">
+        <div class="container">
+            <div class="col-md-6 col-lg-6 col-12 mx-auto my-auto search-box" style="width:100%">
+                <div class="input-group form-container">
+                    <input id="searchText" type="text" name="search" class="form-control search-input" placeholder="Search" autofocus="autofocus">
+
+                    <span class="input-group-btn">
+                        <button class="btn btn-search">
+                            <i class="icon-search"></i>
+                        </button>
+                    </span>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="probootstrap-section">
+    <div class="container room-cards-container">
+        <div id="room-cards" class="row">
+
+        </div>
+    </div>
+</section>
+
+
+
+@section Scripts{
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="~/js/site.js"></script>
+
+
+}

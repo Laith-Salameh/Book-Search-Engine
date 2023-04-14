@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/styles-merged.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/custom.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+</head>
+<body>
+
+    <header role="banner" class="probootstrap-header">
+        <div class="row">
+            <nav role="navigation" class="probootstrap-nav hidden-xs">
+                <ul class="probootstrap-main-nav position-relative">
+                    <li class="hidden-xs probootstrap-logo-center"><a href="@Url.Action("Index","Home")"><div class="hires" width="181" height="50" style="color: #903479; font-size:40px; ">Book Search</div></a></li>
+
+                </ul>
+
+            </nav>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer role="contentinfo" class="probootstrap-footer">
+        <div class="container">
+            <div class="row mt40">
+                <div class="col-md-12 text-center">
+                    <ul class="probootstrap-footer-social">
+                        <li><a href="https://www.facebook.com/laith.salameh25"><i class="icon-facebook"></i></a></li>
+                        <li><a href="https://www.instagram.com/layth_salameh/"><i class="icon-instagram2"></i></a></li>
+                    </ul>
+                    <p>
+                        <small>BookSearch - developed by: <strong>Laith Salameh</strong></small>
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    @RenderSection("Scripts", required: false)
+
+
+
+</body>
+</html>
